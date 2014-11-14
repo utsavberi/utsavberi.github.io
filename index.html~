@@ -39,7 +39,7 @@ span{
 		&gt;&gt; Hi, I am Utsav Beri.
 	</p>
 	<p style = "-webkit-animation-delay:3s"> &gt;&gt; I am a software engineer currently pursuing my masters in computer science</p>
-        <p style = "-webkit-animation-delay:5s"> from University at Buffalo, The State University of New York. <span>|</span></p>
-	
+        <p style = "-webkit-animation-delay:5s"> from University at Buffalo, The State University of New York.</p>
+	<span>|</span>
 </body>
 </html>
